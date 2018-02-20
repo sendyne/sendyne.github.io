@@ -6,5 +6,6 @@ Sendyne delivers key technologies for battery system management including sensin
 
 ## List of projects on GitHub
 
-* [SFP10X_COM](https://sendyne.github.io/SFP10X_COM/)
 * [cppreg](https://sendyne.github.io/cppreg/)
+* [SFP10X_COM](https://sendyne.github.io/SFP10X_COM/)
+
