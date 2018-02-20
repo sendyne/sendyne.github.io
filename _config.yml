@@ -1,0 +1,8 @@
+title: Sendyne.GitHub.io
+description: Sendyne GitHub Pages repository.
+google_analytics: UA-19517097-2
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
